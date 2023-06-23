@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcato0&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50%" style="max-width: 100%;">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50%" style="max-width: 100%;">
+<div>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50%">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50%">
+</div>
+
 
