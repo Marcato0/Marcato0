@@ -5,6 +5,10 @@
   <img width="50%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 </div>
 
+<div align="center">
+  <img width="50%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+</div>
+
 
 
   
